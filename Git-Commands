@@ -17,5 +17,7 @@ Before doing commit first time we need to execute these below commands:-
 
 5. git commit -m "comment"    -->commit the code into git repository (local repo)
 	 
-6. git push -u origin master  --> this command will push the code from git(Local repo) to github (global repo)	 
+6. git push -u origin master  --> this command will push the code from git(Local repo) to github (global repo)
+
+7.git pull ---> this will pull code from global to local repository (CheckOut)
 	 
