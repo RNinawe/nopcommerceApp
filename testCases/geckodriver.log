@@ -1,0 +1,21 @@
+1655390904573	geckodriver	INFO	Listening on 127.0.0.1:59092
+1655390907667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\prate\\AppData\\Local\\Temp\\rust_mozprofile92SHCE"
+1655390909034	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59093
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\prate\\AppData\\Local\\Temp\\rust_mozprofile92SHCE\\search.json.mozlz4", (void 0)))
+1655390913247	Marionette	INFO	Listening on port 59122
+Read port: 59122
+1655390913349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:59093/devtools/browser/8ede348d-9f37-48f1-b4fe-10fdd501d5dc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1655390936937	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655390939463	Marionette	INFO	Stopped listening on port 59122
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+

@@ -1,0 +1,138 @@
+2022-06-16 23:27:34,638 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-06-16 23:27:34,640 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:53800
+2022-06-16 23:27:35,952 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session HTTP/1.1" 200 791
+2022-06-16 23:27:35,953 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:35,963 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-16 23:27:35,963 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-16 23:27:35,964 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/url {"url": "https://admin-demo.nopcommerce.com/"}
+2022-06-16 23:27:55,435 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/url HTTP/1.1" 200 14
+2022-06-16 23:27:55,435 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:55,435 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/window/maximize {}
+2022-06-16 23:27:55,572 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/window/maximize HTTP/1.1" 200 51
+2022-06-16 23:27:55,572 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:55,639 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Email\"]"}
+2022-06-16 23:27:55,663 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:27:55,664 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:55,664 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/ad02ebe5-a17e-41e2-a21d-323f2984519e/clear {"id": "ad02ebe5-a17e-41e2-a21d-323f2984519e"}
+2022-06-16 23:27:55,729 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/ad02ebe5-a17e-41e2-a21d-323f2984519e/clear HTTP/1.1" 200 14
+2022-06-16 23:27:55,730 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:55,730 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Email\"]"}
+2022-06-16 23:27:55,746 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:27:55,746 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:55,747 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/ad02ebe5-a17e-41e2-a21d-323f2984519e/value {"text": "admin@yourstore.com ", "value": ["a", "d", "m", "i", "n", "@", "y", "o", "u", "r", "s", "t", "o", "r", "e", ".", "c", "o", "m", " "], "id": "ad02ebe5-a17e-41e2-a21d-323f2984519e"}
+2022-06-16 23:27:55,875 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/ad02ebe5-a17e-41e2-a21d-323f2984519e/value HTTP/1.1" 200 14
+2022-06-16 23:27:55,875 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:55,875 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Password\"]"}
+2022-06-16 23:27:55,904 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:27:55,904 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:55,904 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/af2f42c5-a7ca-441a-8b26-81e4531c0080/clear {"id": "af2f42c5-a7ca-441a-8b26-81e4531c0080"}
+2022-06-16 23:27:56,012 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/af2f42c5-a7ca-441a-8b26-81e4531c0080/clear HTTP/1.1" 200 14
+2022-06-16 23:27:56,013 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:56,013 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Password\"]"}
+2022-06-16 23:27:56,022 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:27:56,023 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:56,023 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/af2f42c5-a7ca-441a-8b26-81e4531c0080/value {"text": "admin", "value": ["a", "d", "m", "i", "n"], "id": "af2f42c5-a7ca-441a-8b26-81e4531c0080"}
+2022-06-16 23:27:56,089 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/af2f42c5-a7ca-441a-8b26-81e4531c0080/value HTTP/1.1" 200 14
+2022-06-16 23:27:56,090 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:56,090 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "xpath", "value": "//*[contains(text(), 'Log in')]"}
+2022-06-16 23:27:56,108 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:27:56,109 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:27:56,109 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/29e3909b-f754-4692-a6d3-0bd5184b937d/click {"id": "29e3909b-f754-4692-a6d3-0bd5184b937d"}
+2022-06-16 23:28:01,330 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/29e3909b-f754-4692-a6d3-0bd5184b937d/click HTTP/1.1" 200 14
+2022-06-16 23:28:01,331 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:06,331 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/title {}
+2022-06-16 23:28:06,347 - urllib3.connectionpool - DEBUG - http://localhost:53800 "GET /session/45f4db89a38ac154d331e2de3f2137c1/title HTTP/1.1" 200 50
+2022-06-16 23:28:06,348 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:06,349 - root - INFO - **** passed ****
+2022-06-16 23:28:11,360 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "xpath", "value": "//a[@href='/logout']"}
+2022-06-16 23:28:11,393 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:11,393 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:11,393 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/7fb68431-d42a-4066-b41c-9214eecd151b/click {"id": "7fb68431-d42a-4066-b41c-9214eecd151b"}
+2022-06-16 23:28:14,539 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/7fb68431-d42a-4066-b41c-9214eecd151b/click HTTP/1.1" 200 14
+2022-06-16 23:28:14,540 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:14,580 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Email\"]"}
+2022-06-16 23:28:14,581 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:14,581 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:14,581 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/389b645d-86e9-49a9-8764-68c2f1250f0a/clear {"id": "389b645d-86e9-49a9-8764-68c2f1250f0a"}
+2022-06-16 23:28:14,652 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/389b645d-86e9-49a9-8764-68c2f1250f0a/clear HTTP/1.1" 200 14
+2022-06-16 23:28:14,652 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:14,653 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Email\"]"}
+2022-06-16 23:28:14,666 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:14,666 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:14,667 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/389b645d-86e9-49a9-8764-68c2f1250f0a/value {"text": "admin@yourstore.com ", "value": ["a", "d", "m", "i", "n", "@", "y", "o", "u", "r", "s", "t", "o", "r", "e", ".", "c", "o", "m", " "], "id": "389b645d-86e9-49a9-8764-68c2f1250f0a"}
+2022-06-16 23:28:14,751 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/389b645d-86e9-49a9-8764-68c2f1250f0a/value HTTP/1.1" 200 14
+2022-06-16 23:28:14,752 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:14,752 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Password\"]"}
+2022-06-16 23:28:14,765 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:14,765 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:14,766 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/b7c6489b-b302-4c62-a150-553c102fca8b/clear {"id": "b7c6489b-b302-4c62-a150-553c102fca8b"}
+2022-06-16 23:28:14,832 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/b7c6489b-b302-4c62-a150-553c102fca8b/clear HTTP/1.1" 200 14
+2022-06-16 23:28:14,832 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:14,833 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Password\"]"}
+2022-06-16 23:28:14,843 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:14,844 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:14,844 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/b7c6489b-b302-4c62-a150-553c102fca8b/value {"text": "adm", "value": ["a", "d", "m"], "id": "b7c6489b-b302-4c62-a150-553c102fca8b"}
+2022-06-16 23:28:14,907 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/b7c6489b-b302-4c62-a150-553c102fca8b/value HTTP/1.1" 200 14
+2022-06-16 23:28:14,907 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:14,908 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "xpath", "value": "//*[contains(text(), 'Log in')]"}
+2022-06-16 23:28:14,913 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:14,913 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:14,913 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/739ed95e-d917-4b97-b876-078dde294195/click {"id": "739ed95e-d917-4b97-b876-078dde294195"}
+2022-06-16 23:28:15,538 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/739ed95e-d917-4b97-b876-078dde294195/click HTTP/1.1" 200 14
+2022-06-16 23:28:15,538 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:20,546 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/title {}
+2022-06-16 23:28:20,549 - urllib3.connectionpool - DEBUG - http://localhost:53800 "GET /session/45f4db89a38ac154d331e2de3f2137c1/title HTTP/1.1" 200 29
+2022-06-16 23:28:20,549 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:20,549 - root - INFO - **** passed ****
+2022-06-16 23:28:20,618 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Email\"]"}
+2022-06-16 23:28:20,634 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:20,634 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:20,634 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/2e3e829b-e395-4d0d-9b5a-84d470a4de38/clear {"id": "2e3e829b-e395-4d0d-9b5a-84d470a4de38"}
+2022-06-16 23:28:20,737 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/2e3e829b-e395-4d0d-9b5a-84d470a4de38/clear HTTP/1.1" 200 14
+2022-06-16 23:28:20,737 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:20,739 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Email\"]"}
+2022-06-16 23:28:20,745 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:20,745 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:20,745 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/2e3e829b-e395-4d0d-9b5a-84d470a4de38/value {"text": "adm@yourstore.com", "value": ["a", "d", "m", "@", "y", "o", "u", "r", "s", "t", "o", "r", "e", ".", "c", "o", "m"], "id": "2e3e829b-e395-4d0d-9b5a-84d470a4de38"}
+2022-06-16 23:28:20,891 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/2e3e829b-e395-4d0d-9b5a-84d470a4de38/value HTTP/1.1" 200 14
+2022-06-16 23:28:20,892 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:20,893 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Password\"]"}
+2022-06-16 23:28:20,911 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:20,913 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:20,913 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/be52b74a-92a0-4a36-9033-7a93b5b9c384/clear {"id": "be52b74a-92a0-4a36-9033-7a93b5b9c384"}
+2022-06-16 23:28:21,015 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/be52b74a-92a0-4a36-9033-7a93b5b9c384/clear HTTP/1.1" 200 14
+2022-06-16 23:28:21,017 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:21,018 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Password\"]"}
+2022-06-16 23:28:21,034 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:21,034 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:21,034 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/be52b74a-92a0-4a36-9033-7a93b5b9c384/value {"text": "admin", "value": ["a", "d", "m", "i", "n"], "id": "be52b74a-92a0-4a36-9033-7a93b5b9c384"}
+2022-06-16 23:28:21,137 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/be52b74a-92a0-4a36-9033-7a93b5b9c384/value HTTP/1.1" 200 14
+2022-06-16 23:28:21,138 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:21,139 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "xpath", "value": "//*[contains(text(), 'Log in')]"}
+2022-06-16 23:28:21,140 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 200 88
+2022-06-16 23:28:21,155 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:21,155 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element/1a1e7c03-0114-446e-8f45-186b3e5f16f6/click {"id": "1a1e7c03-0114-446e-8f45-186b3e5f16f6"}
+2022-06-16 23:28:52,249 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element/1a1e7c03-0114-446e-8f45-186b3e5f16f6/click HTTP/1.1" 200 14
+2022-06-16 23:28:52,251 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:57,251 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/title {}
+2022-06-16 23:28:57,255 - urllib3.connectionpool - DEBUG - http://localhost:53800 "GET /session/45f4db89a38ac154d331e2de3f2137c1/title HTTP/1.1" 200 66
+2022-06-16 23:28:57,255 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:57,255 - root - INFO - **** passed ****
+2022-06-16 23:28:57,281 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/element {"using": "css selector", "value": "[id=\"Email\"]"}
+2022-06-16 23:28:57,298 - urllib3.connectionpool - DEBUG - http://localhost:53800 "POST /session/45f4db89a38ac154d331e2de3f2137c1/element HTTP/1.1" 404 1008
+2022-06-16 23:28:57,298 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:28:57,694 - selenium.webdriver.remote.remote_connection - DEBUG - DELETE http://localhost:53800/session/45f4db89a38ac154d331e2de3f2137c1/window {}
+2022-06-16 23:28:57,808 - urllib3.connectionpool - DEBUG - http://localhost:53800 "DELETE /session/45f4db89a38ac154d331e2de3f2137c1/window HTTP/1.1" 200 12
+2022-06-16 23:28:57,809 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2022-06-16 23:33:30,191 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-16 23:33:30,192 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-16 23:33:45,309 - root - INFO - **** passed ****
+2022-06-16 23:35:38,251 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-16 23:35:38,252 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-16 23:36:07,878 - root - INFO - **** passed ****
+2022-06-16 23:36:22,354 - root - INFO - **** passed ****
+2022-06-16 23:36:28,689 - root - INFO - **** passed ****
+2022-06-16 23:36:34,887 - root - INFO - **** passed ****
+2022-06-16 23:36:34,888 - root - INFO - ******* DDT Login test passed **********
+2022-06-16 23:36:35,062 - root - INFO - ******* End of Login DDT Test **********
+2022-06-16 23:36:35,062 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 

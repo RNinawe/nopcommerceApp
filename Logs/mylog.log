@@ -1,0 +1,753 @@
+2022-06-16 23:38:17,593 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-16 23:38:17,594 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-16 23:38:46,397 - root - INFO - **** passed ****
+2022-06-18 12:33:07,138 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 12:35:40,536 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 12:36:05,682 - root - INFO - ************* Login succesful **********
+2022-06-18 12:36:05,682 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 12:36:05,682 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 12:39:11,433 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 12:39:19,885 - root - INFO - ************* Login succesful **********
+2022-06-18 12:39:19,885 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 12:39:19,886 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 12:39:22,121 - root - INFO - ************* searching customer by emailID **********
+2022-06-18 12:41:01,481 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 12:41:23,337 - root - INFO - ************* Login succesful **********
+2022-06-18 12:41:23,338 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 12:41:23,338 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 12:41:25,773 - root - INFO - ************* searching customer by emailID **********
+2022-06-18 12:42:37,616 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 12:42:43,651 - root - INFO - ************* Login succesful **********
+2022-06-18 12:42:43,651 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 12:42:43,651 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 12:42:48,055 - root - INFO - ************* searching customer by emailID **********
+2022-06-18 12:42:48,522 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-06-18 12:43:22,326 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 12:43:27,171 - root - INFO - ************* Login succesful **********
+2022-06-18 12:43:27,172 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 12:43:27,172 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 12:43:29,634 - root - INFO - ************* searching customer by emailID **********
+2022-06-18 12:44:45,801 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 12:45:22,817 - root - INFO - ************* Login succesful **********
+2022-06-18 12:45:22,819 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 12:45:22,819 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 12:45:23,425 - root - INFO - ************* searching customer by emailID **********
+2022-06-18 12:47:25,006 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 12:47:33,696 - root - INFO - ************* Login succesful **********
+2022-06-18 12:47:33,697 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 12:47:33,697 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 12:47:35,903 - root - INFO - ************* searching customer by emailID **********
+2022-06-18 12:47:36,711 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-06-18 12:47:56,215 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 12:48:03,809 - root - INFO - ************* Login succesful **********
+2022-06-18 12:48:03,809 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 12:48:03,811 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 12:48:06,440 - root - INFO - ************* searching customer by emailID **********
+2022-06-18 12:58:17,104 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 12:58:26,644 - root - INFO - ************* Login succesful **********
+2022-06-18 12:58:26,645 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 12:58:26,645 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 12:58:42,847 - root - INFO - ************* searching customer by emailID **********
+2022-06-18 13:00:37,306 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:01:29,900 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:01:55,108 - root - INFO - ************* Login succesful **********
+2022-06-18 13:01:55,108 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:01:55,108 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:01:57,298 - root - INFO - ************* searching customer by emailID **********
+2022-06-18 13:15:51,487 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:15:57,794 - root - INFO - ************* Login successfully **********
+2022-06-18 13:15:57,794 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:15:57,794 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:15:59,378 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:16:57,880 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:17:26,406 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:18:00,321 - root - INFO - ************* Login successfully **********
+2022-06-18 13:18:00,321 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:18:00,321 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:18:05,238 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:30:15,167 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:30:20,450 - root - INFO - ************* Login successfully **********
+2022-06-18 13:30:20,450 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:30:20,451 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:30:21,730 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:30:22,069 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:31:40,429 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:31:44,760 - root - INFO - ************* Login successfully **********
+2022-06-18 13:31:44,760 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:31:44,760 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:31:52,321 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:31:57,661 - root - INFO - ************* Login successfully **********
+2022-06-18 13:31:57,661 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:31:57,661 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:31:59,164 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:31:59,487 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:32:18,836 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:32:22,315 - root - INFO - ************* Login successfully **********
+2022-06-18 13:32:22,315 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:32:22,315 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:32:23,588 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:33:07,441 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:33:13,401 - root - INFO - ************* Login successfully **********
+2022-06-18 13:33:13,402 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:33:13,402 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:33:14,390 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:34:43,113 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:34:43,113 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:34:43,113 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:34:43,113 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:34:43,113 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:34:43,113 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:34:43,113 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:34:43,113 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:35:15,352 - root - INFO - *************Home Page Title is FAILED********************
+2022-06-18 13:35:15,352 - root - INFO - *************Home Page Title is FAILED********************
+2022-06-18 13:35:15,352 - root - INFO - *************Home Page Title is FAILED********************
+2022-06-18 13:35:15,352 - root - INFO - *************Home Page Title is FAILED********************
+2022-06-18 13:35:15,490 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:35:15,490 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:35:15,490 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:35:15,490 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:35:15,490 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:35:15,490 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:35:15,490 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:35:15,490 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:35:24,131 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:35:24,131 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:35:24,131 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:35:24,131 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:35:25,455 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:35:25,455 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:35:25,455 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:35:25,455 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:35:25,457 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:35:25,457 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:35:25,457 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:35:25,457 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:35:36,684 - root - INFO - **** passed ****
+2022-06-18 13:35:36,684 - root - INFO - **** passed ****
+2022-06-18 13:35:36,684 - root - INFO - **** passed ****
+2022-06-18 13:35:36,684 - root - INFO - **** passed ****
+2022-06-18 13:35:44,286 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:35:44,286 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:35:44,286 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:35:44,286 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:35:50,315 - root - INFO - ************* Login successfully **********
+2022-06-18 13:35:50,315 - root - INFO - ************* Login successfully **********
+2022-06-18 13:35:50,315 - root - INFO - ************* Login successfully **********
+2022-06-18 13:35:50,315 - root - INFO - ************* Login successfully **********
+2022-06-18 13:35:50,315 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:35:50,315 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:35:50,315 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:35:50,315 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:35:50,316 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:35:50,316 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:35:50,316 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:35:50,316 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:35:51,776 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:35:51,776 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:35:51,776 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:35:51,776 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:35:53,499 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:35:53,499 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:35:53,499 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:35:53,499 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:40:08,128 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:40:08,128 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:40:08,128 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:40:08,128 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:40:08,128 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:40:08,128 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:40:08,128 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:40:08,128 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:40:09,447 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:40:09,447 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:40:09,447 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:40:09,447 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:40:09,452 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:40:09,452 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:40:09,452 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:40:09,452 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:40:09,452 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:40:09,452 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:40:09,452 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:40:09,452 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:40:13,724 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:40:13,724 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:40:13,724 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:40:13,724 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:40:15,088 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:40:15,088 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:40:15,088 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:40:15,088 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:40:15,088 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:40:15,088 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:40:15,088 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:40:15,088 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:40:43,431 - root - INFO - **** passed ****
+2022-06-18 13:40:43,431 - root - INFO - **** passed ****
+2022-06-18 13:40:43,431 - root - INFO - **** passed ****
+2022-06-18 13:40:43,431 - root - INFO - **** passed ****
+2022-06-18 13:40:51,171 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:40:51,171 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:40:51,171 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:40:51,171 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:41:12,233 - root - INFO - ************* Login successfully **********
+2022-06-18 13:41:12,233 - root - INFO - ************* Login successfully **********
+2022-06-18 13:41:12,233 - root - INFO - ************* Login successfully **********
+2022-06-18 13:41:12,233 - root - INFO - ************* Login successfully **********
+2022-06-18 13:41:12,233 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:41:12,233 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:41:12,233 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:41:12,233 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:41:12,234 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:41:12,234 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:41:12,234 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:41:12,234 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:41:14,512 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:41:14,512 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:41:14,512 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:41:14,512 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:41:14,794 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 13:41:14,794 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 13:41:14,794 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 13:41:14,794 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 13:41:16,153 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:41:16,153 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:41:16,153 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:41:16,153 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:41:21,828 - root - INFO - ************* Login successfully **********
+2022-06-18 13:41:21,828 - root - INFO - ************* Login successfully **********
+2022-06-18 13:41:21,828 - root - INFO - ************* Login successfully **********
+2022-06-18 13:41:21,828 - root - INFO - ************* Login successfully **********
+2022-06-18 13:41:21,828 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:41:21,828 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:41:21,828 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:41:21,828 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:41:21,828 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:41:21,828 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:41:21,828 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:41:21,828 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:41:23,254 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:41:23,254 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:41:23,254 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:41:23,254 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:41:23,722 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:41:23,722 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:41:23,722 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:41:23,722 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:45:11,569 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:45:11,569 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:45:11,569 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:45:11,569 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:45:11,570 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:45:11,570 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:45:11,570 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:45:11,570 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:45:14,218 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:45:14,218 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:45:14,218 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:45:14,218 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:45:14,221 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:45:14,221 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:45:14,221 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:45:14,221 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:45:14,221 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:45:14,221 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:45:14,221 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:45:14,221 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:45:35,688 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:45:35,688 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:45:35,688 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:45:35,688 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:45:37,049 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:45:37,049 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:45:37,049 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:45:37,049 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:45:37,049 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:45:37,049 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:45:37,049 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:45:37,049 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:45:47,750 - root - INFO - **** passed ****
+2022-06-18 13:45:47,750 - root - INFO - **** passed ****
+2022-06-18 13:45:47,750 - root - INFO - **** passed ****
+2022-06-18 13:45:47,750 - root - INFO - **** passed ****
+2022-06-18 13:45:55,605 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:45:55,605 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:45:55,605 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:45:55,605 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:46:02,989 - root - INFO - ************* Login successfully **********
+2022-06-18 13:46:02,989 - root - INFO - ************* Login successfully **********
+2022-06-18 13:46:02,989 - root - INFO - ************* Login successfully **********
+2022-06-18 13:46:02,989 - root - INFO - ************* Login successfully **********
+2022-06-18 13:46:02,990 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:46:02,990 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:46:02,990 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:46:02,990 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:46:02,990 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:46:02,990 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:46:02,990 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:46:02,990 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:46:04,460 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:46:04,460 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:46:04,460 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:46:04,460 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:46:10,194 - root - INFO - ************* Login successfully **********
+2022-06-18 13:46:10,194 - root - INFO - ************* Login successfully **********
+2022-06-18 13:46:10,194 - root - INFO - ************* Login successfully **********
+2022-06-18 13:46:10,194 - root - INFO - ************* Login successfully **********
+2022-06-18 13:46:10,194 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:46:10,194 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:46:10,194 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:46:10,194 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:46:10,194 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:46:10,194 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:46:10,194 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:46:10,194 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:46:11,615 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:46:11,615 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:46:11,615 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:46:11,615 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:46:12,109 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:46:12,109 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:46:12,109 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:46:12,109 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:47:38,032 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:47:38,032 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:47:38,032 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:47:38,032 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:47:38,032 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:47:38,032 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:47:38,032 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:47:38,032 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:47:39,431 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:47:39,431 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:47:39,431 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:47:39,431 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:47:39,434 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:47:39,434 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:47:39,434 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:47:39,434 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:47:39,434 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:47:39,434 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:47:39,434 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:47:39,434 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:48:15,030 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:48:15,030 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:48:15,030 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:48:15,030 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:48:15,030 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:48:15,030 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:48:15,030 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:48:15,030 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:48:26,281 - root - INFO - **** passed ****
+2022-06-18 13:48:26,281 - root - INFO - **** passed ****
+2022-06-18 13:48:26,281 - root - INFO - **** passed ****
+2022-06-18 13:48:26,281 - root - INFO - **** passed ****
+2022-06-18 13:48:33,863 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:48:33,863 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:48:33,863 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:48:33,863 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:48:39,810 - root - INFO - ************* Login successfully **********
+2022-06-18 13:48:39,810 - root - INFO - ************* Login successfully **********
+2022-06-18 13:48:39,810 - root - INFO - ************* Login successfully **********
+2022-06-18 13:48:39,810 - root - INFO - ************* Login successfully **********
+2022-06-18 13:48:39,810 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:48:39,810 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:48:39,810 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:48:39,810 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:48:39,810 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:48:39,810 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:48:39,810 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:48:39,810 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:48:45,333 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:48:45,333 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:48:45,333 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:48:45,333 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:49:06,275 - root - INFO - ************* Login successfully **********
+2022-06-18 13:49:06,275 - root - INFO - ************* Login successfully **********
+2022-06-18 13:49:06,275 - root - INFO - ************* Login successfully **********
+2022-06-18 13:49:06,275 - root - INFO - ************* Login successfully **********
+2022-06-18 13:49:06,275 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:49:06,275 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:49:06,275 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:49:06,275 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:49:06,275 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:49:06,275 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:49:06,275 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:49:06,275 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:49:08,380 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:49:08,380 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:49:08,380 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:49:08,380 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:49:09,754 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:49:09,754 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:49:09,754 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:49:09,754 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:49:39,602 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:49:39,602 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:49:39,602 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:49:39,602 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 13:49:39,603 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:49:39,603 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:49:39,603 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:49:39,603 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 13:49:41,016 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:49:41,016 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:49:41,016 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:49:41,016 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 13:49:41,018 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:49:41,018 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:49:41,018 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:49:41,018 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 13:49:41,018 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:49:41,018 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:49:41,018 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:49:41,018 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 13:49:45,348 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:49:45,348 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:49:45,348 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:49:45,348 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 13:49:46,677 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:49:46,677 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:49:46,677 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:49:46,677 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 13:49:46,677 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:49:46,677 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:49:46,677 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:49:46,677 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 13:51:35,664 - root - INFO - **** failed ****
+2022-06-18 13:51:35,664 - root - INFO - **** failed ****
+2022-06-18 13:51:35,664 - root - INFO - **** failed ****
+2022-06-18 13:51:35,664 - root - INFO - **** failed ****
+2022-06-18 13:51:37,336 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:51:37,336 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:51:37,336 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:51:37,336 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 13:51:43,072 - root - INFO - ************* Login successfully **********
+2022-06-18 13:51:43,072 - root - INFO - ************* Login successfully **********
+2022-06-18 13:51:43,072 - root - INFO - ************* Login successfully **********
+2022-06-18 13:51:43,072 - root - INFO - ************* Login successfully **********
+2022-06-18 13:51:43,072 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:51:43,072 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:51:43,072 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:51:43,072 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 13:51:43,074 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:51:43,074 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:51:43,074 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:51:43,074 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:51:44,424 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:51:44,424 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:51:44,424 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:51:44,424 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 13:51:44,721 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 13:51:44,721 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 13:51:44,721 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 13:51:44,721 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 13:51:46,133 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:51:46,133 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:51:46,133 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:51:46,133 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 13:52:09,009 - root - INFO - ************* Login successfully **********
+2022-06-18 13:52:09,009 - root - INFO - ************* Login successfully **********
+2022-06-18 13:52:09,009 - root - INFO - ************* Login successfully **********
+2022-06-18 13:52:09,009 - root - INFO - ************* Login successfully **********
+2022-06-18 13:52:09,010 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:52:09,010 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:52:09,010 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:52:09,010 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 13:52:09,010 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:52:09,010 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:52:09,010 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:52:09,010 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 13:52:25,920 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:52:25,920 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:52:25,920 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:52:25,920 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 13:52:27,328 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:52:27,328 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:52:27,328 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 13:52:27,328 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:32:13,560 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:32:13,560 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:32:13,560 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:32:13,560 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:32:13,564 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:32:13,564 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:32:13,564 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:32:13,564 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:32:16,021 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:32:16,021 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:32:16,021 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:32:16,021 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:33:20,610 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:33:20,610 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:33:20,610 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:33:20,610 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:33:20,611 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:33:20,611 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:33:20,611 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:33:20,611 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:33:24,045 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:33:24,045 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:33:24,045 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:33:24,045 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:34:02,273 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:34:02,273 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:34:02,273 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:34:02,273 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:34:02,274 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:34:02,274 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:34:02,274 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:34:02,274 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:34:19,528 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:34:19,528 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:34:19,528 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:34:19,528 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:34:19,530 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:34:19,530 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:34:19,530 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:34:19,530 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:34:19,530 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:34:19,530 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:34:19,530 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:34:19,530 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:34:42,115 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:34:42,115 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:34:42,115 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:34:42,115 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:34:43,517 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:34:43,517 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:34:43,517 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:34:43,517 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:34:43,518 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:34:43,518 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:34:43,518 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:34:43,518 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:35:11,931 - root - INFO - **** passed ****
+2022-06-18 15:35:11,931 - root - INFO - **** passed ****
+2022-06-18 15:35:11,931 - root - INFO - **** passed ****
+2022-06-18 15:35:11,931 - root - INFO - **** passed ****
+2022-06-18 15:35:19,786 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:35:19,786 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:35:19,786 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:35:19,786 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:35:40,152 - root - INFO - ************* Login successfully **********
+2022-06-18 15:35:40,152 - root - INFO - ************* Login successfully **********
+2022-06-18 15:35:40,152 - root - INFO - ************* Login successfully **********
+2022-06-18 15:35:40,152 - root - INFO - ************* Login successfully **********
+2022-06-18 15:35:40,152 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:35:40,152 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:35:40,152 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:35:40,152 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:35:40,152 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:35:40,152 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:35:40,152 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:35:40,152 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:35:42,343 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:35:42,343 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:35:42,343 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:35:42,343 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:35:42,590 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:35:42,590 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:35:42,590 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:35:42,590 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:35:43,958 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:35:43,958 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:35:43,958 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:35:43,958 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:35:49,439 - root - INFO - ************* Login successfully **********
+2022-06-18 15:35:49,439 - root - INFO - ************* Login successfully **********
+2022-06-18 15:35:49,439 - root - INFO - ************* Login successfully **********
+2022-06-18 15:35:49,439 - root - INFO - ************* Login successfully **********
+2022-06-18 15:35:49,439 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:35:49,439 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:35:49,439 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:35:49,439 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:35:49,440 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:35:49,440 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:35:49,440 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:35:49,440 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:35:50,805 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:35:50,805 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:35:50,805 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:35:50,805 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:35:51,135 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:35:51,135 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:35:51,135 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:35:51,135 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:44:19,159 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:44:19,159 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:44:19,159 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:44:19,159 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:44:19,159 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:44:19,159 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:44:19,159 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:44:19,159 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:44:22,348 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:44:22,348 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:44:22,348 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:44:22,348 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:44:22,351 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:44:22,351 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:44:22,351 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:44:22,351 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:44:22,351 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:44:22,351 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:44:22,351 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:44:22,351 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:44:36,285 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:44:36,285 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:44:36,285 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:44:36,285 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:44:37,655 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:44:37,655 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:44:37,655 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:44:37,655 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:44:37,656 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:44:37,656 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:44:37,656 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:44:37,656 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:45:29,339 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:45:29,339 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:45:29,339 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:45:29,339 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:45:36,011 - root - INFO - ************* Login successfully **********
+2022-06-18 15:45:36,011 - root - INFO - ************* Login successfully **********
+2022-06-18 15:45:36,011 - root - INFO - ************* Login successfully **********
+2022-06-18 15:45:36,011 - root - INFO - ************* Login successfully **********
+2022-06-18 15:45:36,011 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:45:36,011 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:45:36,011 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:45:36,011 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:45:36,012 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:45:36,012 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:45:36,012 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:45:36,012 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:45:37,389 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:45:37,389 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:45:37,389 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:45:37,389 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:45:37,666 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:45:37,666 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:45:37,666 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:45:37,666 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:45:38,999 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:45:38,999 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:45:38,999 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:45:38,999 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:45:44,852 - root - INFO - ************* Login successfully **********
+2022-06-18 15:45:44,852 - root - INFO - ************* Login successfully **********
+2022-06-18 15:45:44,852 - root - INFO - ************* Login successfully **********
+2022-06-18 15:45:44,852 - root - INFO - ************* Login successfully **********
+2022-06-18 15:45:44,852 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:45:44,852 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:45:44,852 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:45:44,852 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:45:44,852 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:45:44,852 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:45:44,852 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:45:44,852 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:45:46,372 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:45:46,372 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:45:46,372 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:45:46,372 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:45:46,679 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:45:46,679 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:45:46,679 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:45:46,679 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:53:32,803 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:53:32,803 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:53:32,803 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:53:32,803 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:53:32,805 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:53:32,805 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:53:32,805 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:53:32,805 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:53:52,283 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:53:52,283 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:53:52,283 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:53:52,283 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:53:52,288 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:53:52,288 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:53:52,288 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:53:52,288 - root - INFO - ****************Verifying test_login TC**************************
+2022-06-18 15:53:52,288 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:53:52,288 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:53:52,288 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:53:52,288 - root - INFO - **************Verifying Login Page Title********************
+2022-06-18 15:53:57,926 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:53:57,926 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:53:57,926 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:53:57,926 - root - INFO - *************Login Page Title is PASSED********************
+2022-06-18 15:53:59,390 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:53:59,390 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:53:59,390 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:53:59,390 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-06-18 15:53:59,390 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:53:59,390 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:53:59,390 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:53:59,390 - root - INFO - ******* Starting Login DDT Test **********
+2022-06-18 15:54:13,362 - root - INFO - **** passed ****
+2022-06-18 15:54:13,362 - root - INFO - **** passed ****
+2022-06-18 15:54:13,362 - root - INFO - **** passed ****
+2022-06-18 15:54:13,362 - root - INFO - **** passed ****
+2022-06-18 15:54:21,276 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:54:21,276 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:54:21,276 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:54:21,276 - root - INFO - ****************SearchCustomerByEmail_003***************************
+2022-06-18 15:54:41,987 - root - INFO - ************* Login successfully **********
+2022-06-18 15:54:41,987 - root - INFO - ************* Login successfully **********
+2022-06-18 15:54:41,987 - root - INFO - ************* Login successfully **********
+2022-06-18 15:54:41,987 - root - INFO - ************* Login successfully **********
+2022-06-18 15:54:41,988 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:54:41,988 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:54:41,988 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:54:41,988 - root - INFO - ******* Starting Search Customer By Email **********
+2022-06-18 15:54:41,988 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:54:41,988 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:54:41,988 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:54:41,988 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:54:45,759 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:54:45,759 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:54:45,759 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:54:45,759 - root - INFO - ************* Searching customer by emailID **********
+2022-06-18 15:54:46,002 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:54:46,002 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:54:46,002 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:54:46,002 - root - INFO - ***************  TC_SearchCustomerByEmail_003 Finished  *********** 
+2022-06-18 15:54:47,370 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:54:47,370 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:54:47,370 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:54:47,370 - root - INFO - ****************SearchCustomerByName_004***************************
+2022-06-18 15:54:56,204 - root - INFO - ************* Login successfully **********
+2022-06-18 15:54:56,204 - root - INFO - ************* Login successfully **********
+2022-06-18 15:54:56,204 - root - INFO - ************* Login successfully **********
+2022-06-18 15:54:56,204 - root - INFO - ************* Login successfully **********
+2022-06-18 15:54:56,204 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:54:56,204 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:54:56,204 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:54:56,204 - root - INFO - ******* Starting Search Customer By Name **********
+2022-06-18 15:54:56,204 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:54:56,204 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:54:56,204 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:54:56,204 - root - INFO - ************* Click in Customer Button **********
+2022-06-18 15:54:57,595 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:54:57,595 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:54:57,595 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:54:57,595 - root - INFO - ************* Searching customer by Name **********
+2022-06-18 15:54:57,917 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:54:57,917 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:54:57,917 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:54:57,917 - root - INFO - ***************  TC_SearchCustomerByName_004 Finished  *********** 
+2022-06-18 15:55:05,642 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:55:05,642 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:55:05,642 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:55:05,642 - root - INFO - ****************Verifying test_home Page title TC**************************
+2022-06-18 15:55:05,642 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:55:05,642 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:55:05,642 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:55:05,642 - root - INFO - **************Verifying Home Page Title********************
+2022-06-18 15:55:08,409 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:55:08,409 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:55:08,409 - root - INFO - *************Home Page Title is PASSED********************
+2022-06-18 15:55:08,409 - root - INFO - *************Home Page Title is PASSED********************
