@@ -1,0 +1,21 @@
+My Git project repo:-https://github.com/RNinawe/nopcommerceApp.git
+
+
+1.Create local repository for your project under your project location "C:\Users\prate\PycharmProjects\nopcommerceApp"
+2.Right click on choose git Bash
+cmd prompt will open and type below command:-
+git init  --> create an empty GIT repository(Local repository)
+git remote add origin https://github.com/RNinawe/nopcommerceApp.git ---> This will connect local repository with global repository
+
+Before doing commit first time we need to execute these below commands:-
+     git config --global user.name "rashmi"
+	 git config --global user.email "rashmininawe1987@gmail.com"
+	 
+3. git status	 -->checking the status
+
+4. git add -A  -->This will add all my uncommited file sinto staging/indexing area
+
+5. git commit -m "comment"    -->commit the code into git repository (local repo)
+	 
+6. git push -u origin master  --> this command will push the code from git(Local repo) to github (global repo)	 
+	 
